@@ -9,4 +9,4 @@ https://ypdev.auth0.com/authorize?audience=coffeshop&response_type=token&client_
 User authourization needs to be assinged by the owner of the web API. 
 
 Test cases (sample token included)
-fsnd.postman_collection.json
+test.py
