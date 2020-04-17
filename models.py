@@ -5,8 +5,6 @@ import os
 
 
 database_path = os.environ['DATABASE_URL']
-#database_path ="postgresql://postgres:1234@localhost:5432/fsnd"
-
 db = SQLAlchemy()
 
 '''
