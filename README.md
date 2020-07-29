@@ -4,9 +4,6 @@
 This web API is a new digita online drink store. Guests can see full drinks menu, number of drinks available in stock, and most popular drinks based on sales history. 
 Bristas can "serve" drinks and update thhe transaction record and number of drinks in stock. Manager can restock drinks or add new drinks to the menu. Mananger is the only role that can see full transcation history of the store.
 
-### API Link
-Application is hosted on https://fsnd-moives.herokuapp.com/
-
 ### Authorization
 User registration and login token acquired from here. 
 https://ypdev.auth0.com/authorize?audience=coffeshop&response_type=token&client_id=cS494RG8HKdBhrEOkOXPekyhIQEEtIDG&redirect_uri=https://127.0.0.1:5000/login-results
