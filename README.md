@@ -6,7 +6,7 @@ Bristas can "serve" drinks and update thhe transaction record and number of drin
 
 ### Authorization
 User registration and login token acquired from here. 
-https://ypdev.auth0.com/authorize?audience=coffeshop&response_type=token&client_id=cS494RG8HKdBhrEOkOXPekyhIQEEtIDG&redirect_uri=https://127.0.0.1:5000/login-results
+https://ypdev.auth0.com/authorize?audience=coffeshop&response_type=token&client_id=cS494RG8HKdBhrEOkOXPekyhIQEEtIDG
 
 User authourization needs to be assinged by the owner of the web API. 
 
